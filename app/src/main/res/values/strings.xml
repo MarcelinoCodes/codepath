@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">codepath</string>
+    <string name="intro">Hello there, my name is George!</string>
+    <string name="click_me">CLICK ME!</string>
+    <string name="desc">Just a picture a golden doodle mixed with a dalmation</string>
+</resources>
