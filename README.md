@@ -1,12 +1,12 @@
 # codepath
 My first android application
-# Android Prework - *Name of App Here*
+# Android Prework - *Codepath*
 
-Submitted by: **Your Name Here**
+Submitted by: **George Mendez**
 
-**Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Codepath** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -24,17 +24,17 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/aT50qCk' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Getting used to kotlin syntax and uploading the project to github directly from android studios proved to be a fun but interesting challenge
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [George Mendez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
